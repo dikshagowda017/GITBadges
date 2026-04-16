@@ -1,8 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?   type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=GitHub%20Profile%20Badges&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=The%20Complete%20Guide%20to%20Every%20GitHub%20Badge&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=GitHub%20Profile%20Badges&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=The%20Complete%20Guide%20to%20Every%20GitHub%20Badge&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+
 <br/>
+
 <!-- Live Badges Row -->
 ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/github-profile-badges?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
 ![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/github-profile-badges?style=for-the-badge&logo=github&color=238636&labelColor=0d1117)

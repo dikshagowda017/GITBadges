@@ -3,7 +3,6 @@
 
 Thank you for considering contributing! 🎉
 
-
 ## How to Contribute
 
 1. **Fork** this repository
